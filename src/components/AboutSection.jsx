@@ -12,7 +12,7 @@ const AboutSection = ({config}) => {
               className="relative bg-center bg-no-repeat aspect-square bg-cover rounded-xl w-48 h-48 md:w-64 md:h-64"
               style={{
                 backgroundImage:
-                  `url("${process.env.REACT_APP_API_URL}${config?.profileImg}")`,
+                  `url("${config?.profileImg}")`,
               }}
               aria-label="Professional headshot of Ram Kumar N looking confident"
             />

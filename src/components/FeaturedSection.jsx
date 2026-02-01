@@ -28,7 +28,7 @@ const FeaturedProjects = ({ projects }) => {
             <div className="relative aspect-video overflow-hidden">
               <div
                 className="w-full h-full bg-slate-800 bg-center bg-cover transition-transform duration-500 group-hover:scale-110"
-                style={{ backgroundImage: `url("${process.env.REACT_APP_API_URL}${project.img}")` }}
+                style={{ backgroundImage: `url("${project.img}")` }}
                 aria-label={project.title}
               />
 

@@ -8,7 +8,7 @@ export default function Header({ config }) {
 
   function handleDownload() {
     saveAs(
-      `${process.env.REACT_APP_API_URL}${config?.resume}`,
+      `${config?.resume}`,
       `${config?.name}_Resume.pdf`
     );
   }

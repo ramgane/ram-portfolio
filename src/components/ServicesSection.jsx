@@ -40,7 +40,7 @@ export default function ServicesSection({offers}) {
 
               <div
                 className="bg-cover bg-center rounded-lg h-[200px] w-full"
-                style={{ backgroundImage: `url("${process.env.REACT_APP_API_URL}${service.img}")` }}
+                style={{ backgroundImage: `url("${service.img}")` }}
                 aria-label={service.title}
               />
             </div>
