@@ -1,0 +1,432 @@
+[{
+  "_id": {
+    "$oid": "697e20850a9d363cbb063193"
+  },
+  "name": "Node.js",
+  "base_type": "backend",
+  "level": "advanced",
+  "experience": 2.5,
+  "createdAt": {
+    "$date": "2026-01-31T15:32:21.372Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:32:21.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e20a30a9d363cbb063195"
+  },
+  "name": "Express.js",
+  "base_type": "backend",
+  "level": "advanced",
+  "experience": 2.5,
+  "createdAt": {
+    "$date": "2026-01-31T15:32:51.296Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:32:51.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e20ab0a9d363cbb063197"
+  },
+  "name": "REST API Development",
+  "base_type": "backend",
+  "level": "advanced",
+  "experience": 2.5,
+  "createdAt": {
+    "$date": "2026-01-31T15:32:59.651Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:32:59.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e20b40a9d363cbb063199"
+  },
+  "name": "Laravel",
+  "base_type": "backend",
+  "level": "intermediate",
+  "experience": 1.5,
+  "createdAt": {
+    "$date": "2026-01-31T15:33:08.743Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:33:08.743Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e20c40a9d363cbb06319b"
+  },
+  "name": "Perfex CRM (PHP)",
+  "base_type": "backend",
+  "level": "intermediate",
+  "experience": 2,
+  "createdAt": {
+    "$date": "2026-01-31T15:33:24.484Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:33:24.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e20dc0a9d363cbb06319d"
+  },
+  "name": "React.js",
+  "base_type": "frontend",
+  "level": "advanced",
+  "experience": 2.9,
+  "createdAt": {
+    "$date": "2026-01-31T15:33:48.296Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:33:48.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e20e60a9d363cbb06319f"
+  },
+  "name": "Next.js",
+  "base_type": "frontend",
+  "level": "intermediate",
+  "experience": 1,
+  "createdAt": {
+    "$date": "2026-01-31T15:33:58.185Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:33:58.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e20f00a9d363cbb0631a1"
+  },
+  "name": "Angular",
+  "base_type": "frontend",
+  "level": "intermediate",
+  "experience": 1,
+  "createdAt": {
+    "$date": "2026-01-31T15:34:08.494Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:34:08.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e20fa0a9d363cbb0631a3"
+  },
+  "name": "Tailwind CSS",
+  "base_type": "frontend",
+  "level": "advanced",
+  "experience": 2.5,
+  "createdAt": {
+    "$date": "2026-01-31T15:34:18.022Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:34:18.022Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e21030a9d363cbb0631a5"
+  },
+  "name": "Material UI",
+  "base_type": "frontend",
+  "level": "intermediate",
+  "experience": 1.5,
+  "createdAt": {
+    "$date": "2026-01-31T15:34:27.606Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:34:27.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e212bd1c06cb7813b1868"
+  },
+  "name": "React Native",
+  "base_type": "mobile",
+  "level": "advanced",
+  "experience": 2.5,
+  "createdAt": {
+    "$date": "2026-01-31T15:35:07.876Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:35:07.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e2136d1c06cb7813b186a"
+  },
+  "name": "Cordova",
+  "base_type": "mobile",
+  "level": "intermediate",
+  "experience": 2,
+  "createdAt": {
+    "$date": "2026-01-31T15:35:18.944Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:35:18.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e2145d1c06cb7813b186c"
+  },
+  "name": "Android (Java)",
+  "base_type": "mobile",
+  "level": "beginner",
+  "experience": 0.5,
+  "createdAt": {
+    "$date": "2026-01-31T15:35:33.268Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:35:33.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e214ed1c06cb7813b186e"
+  },
+  "name": "iOS (Swift)",
+  "base_type": "mobile",
+  "level": "beginner",
+  "experience": 0.5,
+  "createdAt": {
+    "$date": "2026-01-31T15:35:42.241Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:35:42.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e21787af70a98612ac652"
+  },
+  "name": "MERN Stack",
+  "base_type": "fullstack",
+  "level": "advanced",
+  "experience": 2.5,
+  "createdAt": {
+    "$date": "2026-01-31T15:36:24.465Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:36:24.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e217c7af70a98612ac654"
+  },
+  "name": "MEAN Stack",
+  "base_type": "fullstack",
+  "level": "intermediate",
+  "experience": 1,
+  "createdAt": {
+    "$date": "2026-01-31T15:36:28.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:36:28.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e2199157b77b7d13dcb6e"
+  },
+  "name": "MongoDB",
+  "base_type": "database",
+  "level": "advanced",
+  "experience": 2.5,
+  "createdAt": {
+    "$date": "2026-01-31T15:36:57.523Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:36:57.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e21a8157b77b7d13dcb70"
+  },
+  "name": "MySQL",
+  "base_type": "database",
+  "level": "advanced",
+  "experience": 2.9,
+  "createdAt": {
+    "$date": "2026-01-31T15:37:12.358Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:37:12.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e21b3157b77b7d13dcb72"
+  },
+  "name": "PostgreSQL",
+  "base_type": "database",
+  "level": "intermediate",
+  "experience": 1,
+  "createdAt": {
+    "$date": "2026-01-31T15:37:23.704Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:37:23.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e21d6e13d08630ca5a65f"
+  },
+  "name": "Stripe",
+  "base_type": "integration",
+  "level": "intermediate",
+  "experience": 1,
+  "createdAt": {
+    "$date": "2026-01-31T15:37:58.395Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:37:58.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e21dde13d08630ca5a661"
+  },
+  "name": "Razorpay",
+  "base_type": "integration",
+  "level": "advanced",
+  "experience": 2,
+  "createdAt": {
+    "$date": "2026-01-31T15:38:05.354Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:38:05.354Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e21ece13d08630ca5a663"
+  },
+  "name": "Firebase",
+  "base_type": "integration",
+  "level": "advanced",
+  "experience": 2.5,
+  "createdAt": {
+    "$date": "2026-01-31T15:38:20.843Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:38:20.843Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e21f8e13d08630ca5a665"
+  },
+  "name": "Google Maps API",
+  "base_type": "integration",
+  "level": "advanced",
+  "experience": 2,
+  "createdAt": {
+    "$date": "2026-01-31T15:38:32.631Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:38:32.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e2219120a24b018637d38"
+  },
+  "name": "Git",
+  "base_type": "tools",
+  "level": "advanced",
+  "experience": 2.5,
+  "createdAt": {
+    "$date": "2026-01-31T15:39:05.806Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:39:05.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e2221120a24b018637d3a"
+  },
+  "name": "Postman",
+  "base_type": "tools",
+  "level": "advanced",
+  "experience": 2.5,
+  "createdAt": {
+    "$date": "2026-01-31T15:39:13.379Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:39:13.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e2231120a24b018637d3c"
+  },
+  "name": "canva",
+  "base_type": "tools",
+  "level": "intermediate",
+  "experience": 2,
+  "createdAt": {
+    "$date": "2026-01-31T15:39:29.513Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:39:29.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e22a0120a24b018637d3e"
+  },
+  "name": "Dibsy",
+  "base_type": "integration",
+  "level": "intermediate",
+  "experience": 1.4,
+  "createdAt": {
+    "$date": "2026-01-31T15:41:20.149Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:41:20.149Z"
+  },
+  "__v": 0
+}]

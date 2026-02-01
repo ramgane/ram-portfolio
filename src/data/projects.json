@@ -1,0 +1,188 @@
+[
+ {
+  "_id": {
+    "$oid": "697e2712120a24b018637d5f"
+  },
+  "img": "/img/projects/modo.png",
+  "title": "Hospital & Doctor Consultation Platform",
+  "description": "A scalable MERN-based healthcare system enabling doctor–patient consultations, appointment scheduling, admin workflows, and performance-optimized APIs.",
+  "tech": [
+    "MongoDB",
+    "Express",
+    "React",
+    "Node.js"
+  ],
+  "link": "https://modoapp.in/",
+  "createdAt": {
+    "$date": "2026-01-31T16:00:18.727Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T16:00:18.727Z"
+  },
+  "__v": 0,
+  "sequence": 2
+},
+{
+  "_id": {
+    "$oid": "697e27d8120a24b018637d69"
+  },
+  "img": "/img/projects/tribyou.png",
+  "title": "Multimedia Mobile Application",
+  "description": "A cross-platform React Native app supporting multimedia content with optimized file handling, smooth performance, and scalable backend integration.",
+  "tech": [
+    "React Native",
+    "Laravel",
+    "REST APIs",
+    "Stripe"
+  ],
+  "link": "https://tribyouapp.com/",
+  "createdAt": {
+    "$date": "2026-01-31T16:03:36.115Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T16:03:36.115Z"
+  },
+  "__v": 0,
+  "sequence": 3
+},
+{
+  "_id": {
+    "$oid": "697e2cfe120a24b018637d83"
+  },
+  "img": "/img/projects/Phylsis.png",
+  "title": "Philippines Government Service Mobile App",
+  "description": "A government service mobile application for the Philippines, currently under active development, built using Cordova with a focus on accessibility, reliability, and secure public service delivery.",
+  "tech": [
+    "Cordova",
+    "JavaScript",
+    "REST APIs",
+    "Laravel"
+  ],
+  "link": "",
+  "createdAt": {
+    "$date": "2026-01-31T16:25:34.226Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T16:25:34.226Z"
+  },
+  "__v": 0,
+  "sequence": 4
+},
+{
+  "_id": {
+    "$oid": "697e4084091b0937b52a218f"
+  },
+  "img": "/img/projects/MentoringSystem.jpg",
+  "title": "Mentoring Management System",
+  "description": "A full MERN stack academic mentoring system migrated from legacy PHP to improve scalability, performance, and mentor–student interaction.",
+  "tech": [
+    "MongoDB",
+    "Express",
+    "React",
+    "Node.js"
+  ],
+  "link": "https://github.com/ramgane/Mentoring-System",
+  "createdAt": {
+    "$date": "2026-01-31T17:48:52.798Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T17:48:52.798Z"
+  },
+  "__v": 0,
+  "sequence": 6
+},
+{
+  "_id": {
+    "$oid": "697e4149091b0937b52a2199"
+  },
+  "img": "/img/projects/game.png",
+  "title": "Office Party Fun Game Platform",
+  "description": "A fun, interactive MERN stack web platform designed for office party competitions. It hosts multiple mini-games for team and group play, includes live score tracking, real-time participation, and leaderboards to boost engagement during corporate events.",
+  "tech": [
+    "MongoDB",
+    "Express",
+    "React",
+    "Node.js"
+  ],
+  "link": "https://github.com/ramgane/fungame_frontend",
+  "createdAt": {
+    "$date": "2026-01-31T17:52:09.506Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T17:52:09.506Z"
+  },
+  "__v": 0,
+  "sequence": 5
+},
+{
+  "_id": {
+    "$oid": "697efaac1b29811c93ec204f"
+  },
+  "img": "/img/projects/Tippen.png",
+  "title": "Tippen Ads Publishing Project",
+  "description": "A lightweight web application built for office training and internal promotions. The platform allows users to upload, view, and manage short video advertisements in an Instagram-like vertical feed. Designed for publishing mock ads and training content, it supports smooth video playback, simple interactions, and structured content delivery using a REST API architecture.",
+  "tech": [
+    "Vue.js",
+    "HTML",
+    "CSS",
+    "Core PHP",
+    "REST API"
+  ],
+  "link": "",
+  "createdAt": {
+    "$date": "2026-02-01T07:03:08.924Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-01T07:03:08.924Z"
+  },
+  "__v": 0,
+  "sequence": 8
+},
+{
+  "_id": {
+    "$oid": "697efbb71b29811c93ec2059"
+  },
+  "img": "/img/projects/sling.jpg",
+  "title": "Sling – Bulk Recharge Platform",
+  "description": "Sling is a three-domain enterprise bulk recharge platform that allows companies to upload employee mobile numbers in bulk and process recharges efficiently. The system supports large-scale recharge operations with secure API integration and streamlined workflows. I worked as a Frontend Developer and Backend Support Engineer, contributing to UI development, REST API integration, and backend operational support.",
+  "tech": [
+    "HTML",
+    "CSS",
+    "jQuery",
+    "REST API",
+    "Laravel"
+  ],
+  "link": "",
+  "createdAt": {
+    "$date": "2026-02-01T07:07:35.770Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-01T07:07:35.770Z"
+  },
+  "__v": 0,
+  "sequence": 7
+},
+{
+  "_id": {
+    "$oid": "697f03e81b29811c93ec2063"
+  },
+  "img": "/img/projects/Aaiwa.png",
+  "title": "Aaiwa Service Based Application",
+  "description": "Aaiwa is a service-based platform supporting 40,000+ active users, where I led backend architecture and optimized REST APIs to remove performance blockers and improve request flow. Built a highly configurable Perfex CRM admin panel with template-level homepage control, spin-wheel notifications (OneSignal), and slot-based coupons, scaling users from 30,000 to 40,000+.",
+  "tech": [
+    "CRM",
+    "Express.js",
+    "Dibsy",
+    "Firebase",
+    "REST API"
+  ],
+  "link": "https://aaiwa.com/",
+  "createdAt": {
+    "$date": "2026-02-01T07:42:32.715Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-01T07:42:32.715Z"
+  },
+  "__v": 0,
+  "sequence": 1
+}]

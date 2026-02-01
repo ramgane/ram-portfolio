@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "697e10b3512a5c0bc8d62bac"
+  },
+  "img": "/img/services/Backend_arch.png",
+  "icon": "terminal",
+  "title": "Backend Architecture",
+  "description": "High-concurrency systems built with Node.js, Go, or Laravel. Focus on performance tuning and data integrity.",
+  "createdAt": {
+    "$date": "2026-01-31T14:24:51.712Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T14:24:51.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e125d512a5c0bc8d62baf"
+  },
+  "img": "/img/services/web_dev.png",
+  "icon": "devices",
+  "title": "Web Development",
+  "description": "Responsive, pixel-perfect frontend experiences using React and Tailwind CSS for modern user engagement.",
+  "createdAt": {
+    "$date": "2026-01-31T14:31:57.034Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T14:31:57.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e17ba512a5c0bc8d62bb8"
+  },
+  "img": "/img/services/mobileapps.png",
+  "icon": "smartphone",
+  "title": "Mobile Apps",
+  "description": "Cross-platform mobile applications that provide native feel and performance on both iOS and Android.",
+  "createdAt": {
+    "$date": "2026-01-31T14:54:50.151Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T14:54:50.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e1985512a5c0bc8d62bc2"
+  },
+  "img": "/img/services/saas.png",
+  "icon": "auto_graph",
+  "title": "SaaS Development",
+  "description": "End-to-end multi-tenant software solutions with subscription management and analytics dashboards.",
+  "createdAt": {
+    "$date": "2026-01-31T15:02:29.053Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:02:29.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e19e7512a5c0bc8d62bc4"
+  },
+  "img": "/img/services/e-shopping.png",
+  "icon": "shopping_cart",
+  "title": "E-commerce Solutions",
+  "description": "Scalable online stores with seamless payment gateway integration and inventory management systems.",
+  "createdAt": {
+    "$date": "2026-01-31T15:04:07.289Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T15:04:07.289Z"
+  },
+  "__v": 0
+}]

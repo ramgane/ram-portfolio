@@ -1,0 +1,26 @@
+{
+  "avail": true,
+  "profileImg": "/img/config/profile.png",
+  "experience": 3,
+  "title": "I build scalable web & mobile solutions for modern businesses",
+  "description": "Full Stack / Solution Engineer specializing in high-performance architecture, cloud infrastructure, and backend leadership.",
+  "position": "Solution Engineer",
+  "place": "India",
+  "resume": "/pdf/Resume.pdf",
+  "phone": "6380893904",
+  "email": "guru4567varan@gmail.com",
+  "github": "https://github.com/ramgane",
+  "linkedin": "https://www.linkedin.com/in/ram312002/",
+  "twitter": "",
+  "address": "Cuddalore,Tamil Nadu, India",
+  "createdAt": {
+    "$date": "2026-01-31T06:22:46.382Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T12:44:17.130Z"
+  },
+  "__v": 0,
+  "name": "Ram Kumar N",
+  "abt_description": "Focused on building robust system architectures that grow with your business. I bridge the gap between complete backend logic and intuitive frontend experiences. Based in India, working globally with startups and enterprises.",
+  "abt_title": "2.9+ years of backend leadership and scalability."
+}
