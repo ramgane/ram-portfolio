@@ -44,7 +44,7 @@ const SkillsSection = ({ tech }) => {
   const skills = buildSkillsByType(tech);
 
   return (
-    <section id="skills" className="pt-32 pb-20 px-6">
+    <section id="skills" className="pt-32 pb-10 lg:px-6 px-8">
       <div className="max-w-7xl mx-auto">
         {/* Title */}
         <h3 className="text-3xl font-bold text-center mb-16">

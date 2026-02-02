@@ -1,7 +1,7 @@
 const FreelanceCTA = ({ config }) => {
   return (
-    <section className="mb-24">
-      <div className="cta-gradient rounded-2xl p-8 md:p-16 text-center relative overflow-hidden group">
+    <section className="pt-2 pb-2 lg:px-6 px-8 mb-10">
+      <div className="max-w-7xl mx-auto cta-gradient rounded-2xl p-8 md:p-16 text-center relative overflow-hidden group">
         {/* Decorative elements */}
         <div className="absolute -top-24 -right-24 size-64 bg-teal-accent/10 rounded-full blur-3xl group-hover:scale-125 transition-transform duration-700"></div>
         <div className="absolute -bottom-24 -left-24 size-64 bg-white/5 rounded-full blur-3xl"></div>

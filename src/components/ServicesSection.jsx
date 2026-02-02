@@ -1,7 +1,7 @@
 import React from "react";
 export default function ServicesSection({offers}) {
   return (
-    <section className="pt-32 pb-10 px-6" id="service">
+    <section className="pt-32 pb-10 lg:px-6 px-8" id="service">
       <div className="max-w-7xl mx-auto">
 
         {/* Header */}

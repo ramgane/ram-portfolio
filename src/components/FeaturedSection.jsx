@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const FeaturedProjects = ({ projects }) => {
 
   return (
-    <section className="pt-32 pb-10 px-6" id="projects">
+    <section className="pt-32 pb-10 lg:px-6 px-8" id="projects">
       {/* Header */}
       <div className="max-w-7xl mx-auto">
         <h3 className="text-3xl font-bold mb-2 text-center">
@@ -15,10 +15,10 @@ const FeaturedProjects = ({ projects }) => {
             performance.
           </p>
         </div>
-      </div>
+      
 
       {/* Projects Grid */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {projects && projects.slice().sort((a, b) => a.sequence - b.sequence).map((project) => (
           <div
             key={project.title}
@@ -71,6 +71,7 @@ const FeaturedProjects = ({ projects }) => {
             </div>
           </div>
         ))}
+      </div>
       </div>
     </section>
   );

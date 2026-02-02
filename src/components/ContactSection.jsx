@@ -2,10 +2,9 @@ import ContactForm from "./ContactForm";
 
 const ContactSection = ({ config }) => {
   return (
-    <section className="pt-32 pb-10 px-6 mb-24" id="contact">
-
+    <section className="pt-32 pb-10 lg:px-6 px-8 mb-24" id="contact">
+    <div className="max-w-7xl mx-auto">
       <h2 className="text-4xl font-black mb-12">Get In Touch</h2>
-
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
         {/* Left: Contact Details */}
         <div className="space-y-10">
@@ -103,6 +102,7 @@ const ContactSection = ({ config }) => {
 
         <ContactForm />
 
+      </div>
       </div>
     </section>
   );
