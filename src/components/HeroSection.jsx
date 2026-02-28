@@ -2,8 +2,7 @@ const HeroSection = ({config}) => {
   return (
     <section className="relative pt-32 pb-10 px-6 overflow-hidden" id="about">
       <div className="max-w-4xl mx-auto text-center">
-        {
-          config?.avail && 
+       
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/10 border border-primary/20 text-primary text-xs font-bold mb-6">
           <span className="relative flex h-2 w-2">
             <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-accent-teal opacity-75"></span>
@@ -11,7 +10,7 @@ const HeroSection = ({config}) => {
           </span>
           AVAILABLE FOR NEW PROJECTS
         </div>
-       }
+     
 
         <h1 className="text-5xl md:text-7xl font-black leading-tight tracking-tight mb-8 hero-gradient-text">
          {config?.title}

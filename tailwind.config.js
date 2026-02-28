@@ -9,6 +9,7 @@ module.exports = {
       colors: {
         primary: "#3713ec",
         "teal-accent": "#2dd4bf",
+         'accent-teal': '#14b8a6',
         "background-light": "#f6f6f8",
         "background-dark": "#131022",
       },

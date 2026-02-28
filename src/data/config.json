@@ -2,25 +2,25 @@
   "avail": true,
   "profileImg": "/img/config/profile.png",
   "experience": 3,
-  "title": "I build scalable web & mobile solutions for modern businesses",
-  "description": "Full Stack / Solution Engineer specializing in high-performance architecture, cloud infrastructure, and backend leadership.",
-  "position": "Solution Engineer",
-  "place": "India",
-  "resume": "/pdf/Resume.pdf",
+  "title": "Backends that scale Frontends that convert Mobile apps that last",
+  "description": "Backend Lead & Full Stack Developer with 3+ years building production apps across healthcare, e-commerce, and e-governance. Scaled Aaiwa to 40,000+ users. Gold Medalist. Currently at Pupa Clic, Chennai.",
+  "position": "Backend Lead · Full Stack Developer",
+  "place": "India / Remote",
+  "resume": "/pdf/Ram_Kumar_N_Resume.pdf",
   "phone": "6380893904",
   "email": "guru4567varan@gmail.com",
   "github": "https://github.com/ramgane",
   "linkedin": "https://www.linkedin.com/in/ram312002/",
   "twitter": "",
-  "address": "Cuddalore,Tamil Nadu, India",
+  "address": "Cuddalore, Tamil Nadu, India",
   "createdAt": {
     "$date": "2026-01-31T06:22:46.382Z"
   },
   "updatedAt": {
-    "$date": "2026-01-31T12:44:17.130Z"
+    "$date": "2026-02-28T00:00:00.000Z"
   },
   "__v": 0,
   "name": "Ram Kumar N",
-  "abt_description": "Focused on building robust system architectures that grow with your business. I bridge the gap between complete backend logic and intuitive frontend experiences. Based in India, working globally with startups and enterprises.",
-  "abt_title": "2.9+ years of backend leadership and scalability."
+  "abt_description": "I'm Ram Kumar N — Backend Lead and Full Stack Developer at Pupa Clic, Chennai. I've grown the Aaiwa service platform from 30,000 to 40,000+ active users, cut API response times by ~40%, and maintained a React Native app at 99.5% crash-free for 12+ months across iOS and Android.\n\nMy stack spans the full picture: Node.js, Laravel, MERN, React Native, Expo, TypeScript, and 10+ third-party integrations including Stripe, Firebase, Razorpay, and OneSignal. I've shipped apps in healthcare, government, e-commerce, multimedia, and SaaS — independently and as a team lead.\n\nB.Sc. Computer Science Gold Medalist. Meta Certified Front-End Developer. Open to remote worldwide.",
+  "abt_title": "3+ years of shipping products people actually use."
 }
