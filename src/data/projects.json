@@ -15,8 +15,12 @@
       "REST API"
     ],
     "link": "https://aaiwa.com/",
-    "createdAt": { "$date": "2026-02-01T07:42:32.715Z" },
-    "updatedAt": { "$date": "2026-02-28T00:00:00.000Z" },
+    "createdAt": {
+      "$date": "2026-02-01T07:42:32.715Z"
+    },
+    "updatedAt": {
+      "$date": "2026-02-28T00:00:00.000Z"
+    },
     "__v": 0,
     "sequence": 1
   },
@@ -35,8 +39,12 @@
       "REST API"
     ],
     "link": "https://modoapp.in/",
-    "createdAt": { "$date": "2026-01-31T16:00:18.727Z" },
-    "updatedAt": { "$date": "2026-02-28T00:00:00.000Z" },
+    "createdAt": {
+      "$date": "2026-01-31T16:00:18.727Z"
+    },
+    "updatedAt": {
+      "$date": "2026-02-28T00:00:00.000Z"
+    },
     "__v": 0,
     "sequence": 2
   },
@@ -56,8 +64,12 @@
       "TypeScript"
     ],
     "link": "",
-    "createdAt": { "$date": "2026-02-28T00:00:00.000Z" },
-    "updatedAt": { "$date": "2026-02-28T00:00:00.000Z" },
+    "createdAt": {
+      "$date": "2026-02-28T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-02-28T00:00:00.000Z"
+    },
     "__v": 0,
     "sequence": 3
   },
@@ -75,8 +87,12 @@
       "REST API"
     ],
     "link": "https://tribyouapp.com/",
-    "createdAt": { "$date": "2026-01-31T16:03:36.115Z" },
-    "updatedAt": { "$date": "2026-02-28T00:00:00.000Z" },
+    "createdAt": {
+      "$date": "2026-01-31T16:03:36.115Z"
+    },
+    "updatedAt": {
+      "$date": "2026-02-28T00:00:00.000Z"
+    },
     "__v": 0,
     "sequence": 4
   },
@@ -94,8 +110,12 @@
       "REST API"
     ],
     "link": "",
-    "createdAt": { "$date": "2026-01-31T16:25:34.226Z" },
-    "updatedAt": { "$date": "2026-02-28T00:00:00.000Z" },
+    "createdAt": {
+      "$date": "2026-01-31T16:25:34.226Z"
+    },
+    "updatedAt": {
+      "$date": "2026-02-28T00:00:00.000Z"
+    },
     "__v": 0,
     "sequence": 5
   },
@@ -114,8 +134,12 @@
       "Socket.io"
     ],
     "link": "https://github.com/ramgane/fungame_frontend",
-    "createdAt": { "$date": "2026-01-31T17:52:09.506Z" },
-    "updatedAt": { "$date": "2026-02-28T00:00:00.000Z" },
+    "createdAt": {
+      "$date": "2026-01-31T17:52:09.506Z"
+    },
+    "updatedAt": {
+      "$date": "2026-02-28T00:00:00.000Z"
+    },
     "__v": 0,
     "sequence": 6
   },
@@ -134,8 +158,12 @@
       "REST API"
     ],
     "link": "https://github.com/ramgane/Mentoring-System",
-    "createdAt": { "$date": "2026-01-31T17:48:52.798Z" },
-    "updatedAt": { "$date": "2026-02-28T00:00:00.000Z" },
+    "createdAt": {
+      "$date": "2026-01-31T17:48:52.798Z"
+    },
+    "updatedAt": {
+      "$date": "2026-02-28T00:00:00.000Z"
+    },
     "__v": 0,
     "sequence": 7
   },
@@ -154,8 +182,12 @@
       "REST API"
     ],
     "link": "",
-    "createdAt": { "$date": "2026-02-01T07:07:35.770Z" },
-    "updatedAt": { "$date": "2026-02-28T00:00:00.000Z" },
+    "createdAt": {
+      "$date": "2026-02-01T07:07:35.770Z"
+    },
+    "updatedAt": {
+      "$date": "2026-02-28T00:00:00.000Z"
+    },
     "__v": 0,
     "sequence": 8
   },
@@ -174,9 +206,37 @@
       "REST API"
     ],
     "link": "",
-    "createdAt": { "$date": "2026-02-01T07:03:08.724Z" },
-    "updatedAt": { "$date": "2026-02-28T00:00:00.000Z" },
+    "createdAt": {
+      "$date": "2026-02-01T07:03:08.724Z"
+    },
+    "updatedAt": {
+      "$date": "2026-02-28T00:00:00.000Z"
+    },
     "__v": 0,
     "sequence": 9
+  },
+  {
+    "_id": {
+      "$oid": "697efbcc1b29811c93ec206a"
+    },
+    "img": "/img/projects/default.png",
+    "title": "Developer KB",
+    "description": "Internal office POC for senior-level integrations. Features a Telegram-based project status chatbot using OpenRouter, Clickup MCP, and n8n to provide dynamic summaries. Additionally includes a Voice-to-Voice chatbot powered by ElevenLabs, capable of processing project details and returning responses in various random voices after handling brief hold queues.",
+    "tech": [
+      "n8n",
+      "Clickup MCP",
+      "OpenRouter",
+      "ElevenLabs",
+      "Telegram Bot"
+    ],
+    "link": "",
+    "createdAt": {
+      "$date": "2026-09-05T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-05T00:00:00.000Z"
+    },
+    "__v": 0,
+    "sequence": 10
   }
 ]
